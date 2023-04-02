@@ -17,7 +17,7 @@
 # palabra "error"; si contiene esta palabra, se debe copiar el log al directorio "Errores"
 # y se debe enviar un correo al administrador.
 
-# Docuemntación:
+# Documentación:
 # Preguntarle al administrador cuál es log que él desea que no se borre
 # Averiguar cuantos logs crea el servidor 
 # Sabiendo cuantos logs crea el servidor, hay que empezar a hacer un programa que sepa identificar cada log
