@@ -50,5 +50,3 @@
 # No se puede formar un número que sea múltiplo de 5
 # Imprimir una frase que le haga saber al usuario que su número no puede ser multiplicado por 5
 # Imprimir un final para el programa o decidir si pedir un número diferente al usuario
-
-
